@@ -34,4 +34,5 @@
 .slider__control:is(:hover, :focus, :focus-visible) {
 	background-color: transparent;
 	color: inherit;
+	outline: 0;
 }
