@@ -9,7 +9,7 @@ cd wp-content/plugins
 git clone git@github.com:drazik/elementor-slick-carousel.git
 ```
 
-Or download a ZIP and unzip it in your `wp-content/plugins` directory.
+Or download the [latest release](https://github.com/drazik/elementor-slick-carousel/releases/latest) archive and unzip it in your `wp-content/plugins` directory.
 
 Then go to your Wordpress plugins page and enable "Elementor Slick Carousel".
 
