@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Elementor Slick Carousel
  * Description: Slick Carousel widget for Elementor
- * Version:     1.0.0
+ * Version:     1.0.2
  * Author:      Cyrille Perois
  * Author URI:  https://github.com/drazik
  * Text Domain: elementor-addon
